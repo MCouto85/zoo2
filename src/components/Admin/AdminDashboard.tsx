@@ -1121,7 +1121,7 @@ export function AdminDashboard({ userCount, achievements: propAchievements, conf
 
                          <div className="space-y-8">
                             <div className="space-y-4">
-                               <label className="text-[10px] font-black uppercase text-text-secondary                                 <div className="flex items-center justify-between ml-4">
+                               <div className="flex items-center justify-between ml-4">
                                   <label className="text-[10px] font-black uppercase text-text-secondary tracking-widest">Engenharia Sonora</label>
                                   <button 
                                     type="button"
